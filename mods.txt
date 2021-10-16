@@ -1,0 +1,11 @@
+VERSION = 1,
+
+mods
+{
+	mod = CombatText,
+	mod = LTSKOREAN,
+}
+
+maps
+{
+}
