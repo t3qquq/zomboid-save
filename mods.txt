@@ -4,6 +4,8 @@ mods
 {
 	mod = CombatText,
 	mod = LTSKOREAN,
+	mod = ExtraSauceInstantConsolidate,
+	mod = modoptions,
 }
 
 maps
