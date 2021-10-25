@@ -6,6 +6,7 @@ mods
 	mod = LTSKOREAN,
 	mod = ExtraSauceInstantConsolidate,
 	mod = modoptions,
+	mod = AutoMechanics,
 }
 
 maps
